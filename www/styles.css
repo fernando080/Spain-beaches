@@ -1,0 +1,38 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+.estiloh3 {
+    line-height: 1.1;
+    font-weight: bold;
+    color: #268BD2;
+}
+.estiloh3b {
+    font-weight: 500;
+    line-height: 1.1;
+    color: #4d3a7d;
+}
+.home-text {
+    font-size:1.4em;
+    font-weight: bold;
+    color:#FFFFFF;
+}
+.imp-text {
+    font-size:1.6em;
+    font-weight: bold;
+    color:#B3E2FF;
+}
+.interesting-hint {
+    font-size:1.4em;
+    font-weight: bold;
+    color:#B3E2FF;
+}
+.basic-text {
+    font-size:1.2em;
+    font-weight: bold;
+}
+.imp-word {
+    color:#df691a;
+}

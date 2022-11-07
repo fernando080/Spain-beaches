@@ -1,0 +1,24 @@
+# <span style="color:white">**Documentation**</span>
+
+## <span style="color:#268BD2">Section 1: **Home**</span>
+<span class="home-text">The welcome page, for start enjoing you travel in the app. You can check the linkedIn profile of the author clicking in his name.</span>
+
+## <span style="color:#268BD2">Section 2: **Beach Storyboard**</span>
+
+<div class="home-text">In this section you are going to find a space for the <span style="color:#df691a;font-weight: bold;">Beaches Storyboard</span>. In the first place you are going to find three different tabs:</div><br>
+<div style="color:#B3E2FF;font-weight: bold;font-size: 1.4em;">1. Hospitals and Sea Sport Centers:</div><span class="home-text"> Here you will find two graphs with some infomation about the hospitals and Sport Centers.</span><br>
+<div style="color:#B3E2FF;font-weight: bold;font-size: 1.4em;">2. Parking, Urbanization and Occupation:</div><span class="home-text"> This feature have 5 differents graphs giving information about tourist characteristics of the beaches.</span><br>
+<div style="color:#B3E2FF;font-weight: bold;font-size: 1.4em;">3. Width and Length:</div><span class="home-text"> In this last tab we find orographic information of the beaches.</span>
+
+## <span style="color:#268BD2">Section 4: **Documentation**</span>
+<span class="home-text">In this section I describe the main idea of the application and the different references and examples that I have used to build it.</span>
+
+## <span style="color:#268BD2">**Conclusion**</span>
+<span class="home-text">In the study carried out on the Beaches of Spain, it has been observed that there are notable differences in the different values studied when it comes to the Mediterranean part or the Cantabrian part. If you have knowledge of the Spanish orography and tourist flows, you can better understand this set of data. So it would be interesting to be able to combine these results with other datasets.</span>
+
+## <span style="color:#268BD2">**References**</span>
+<span style="color:#B3E2FF;font-weight: bold;font-size: 1.4em;">1. </span><a style="color:#CA75DB;font-weight: bold;font-size: 1.4em;" href="https://shiny.rstudio.com/">Shiny from RStudio</a></span><br>
+<span style="color:#B3E2FF;font-weight: bold;font-size: 1.4em;">2. </span><a style="color:#CA75DB;font-weight: bold;font-size: 1.4em;" href="https://rstudio.github.io/leaflet/">Leaflet for R</a></span><br>
+<span style="color:#B3E2FF;font-weight: bold;font-size: 1.4em;">3. </span><a style="color:#CA75DB;font-weight: bold;font-size: 1.4em;" href="http://www.sthda.com/english/wiki/be-awesome-in-ggplot2-a-practical-guide-to-be-highly-effective-r-software-and-data-visualization">Be Awesome in ggplot2: A Practical Guide to be Highly Effective - R software and data visualization</a></span><br>
+<span style="color:#B3E2FF;font-weight: bold;font-size: 1.4em;">4. </span><a style="color:#CA75DB;font-weight: bold;font-size: 1.4em;" href="http://www.sthda.com/english/wiki/ggplot2-violin-plot-quick-start-guide-r-software-and-data-visualization">ggplot2 violin plot : Quick start guide - R software and data visualization</a></span><br><br>
+
